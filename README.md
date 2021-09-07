@@ -15,6 +15,9 @@ local Porn = Instance.new("TextButton")
 local LOL = Instance.new("TextButton")
 local YEET = Instance.new("TextButton")
 local Dick = Instance.new("TextButton")
+local ASS = Instance.new("TextButton")
+local Cunt = Instance.new("TextButton")
+local Bruh = Instance.new("TextButton")
 local TextButton = Instance.new("TextButton")
 local OpenMainFRAME = Instance.new("Frame")
 local OpenMain = Instance.new("TextButton")
@@ -320,6 +323,67 @@ Dick.MouseButton1Down:connect(function()
 	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴⚫🔴⚫🔴⚫🔴🔴🔴⚫⚫🔴🔴🔴","All")
 	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴⚫🔴⚫🔴⚫🔴🔴🔴⚫🔴⚫🔴🔴","All")
 	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫⚫⚫🔴🔴⚫🔴⚫⚫⚫🔴⚫🔴🔴⚫🔴","All")
+end)
+
+ASS.Name = "ASS"
+ASS.Parent = ScrollingFrame
+ASS.BackgroundColor3 = Color3.fromRGB(254, 0, 0)
+ASS.BorderColor3 = Color3.fromRGB(254, 0, 0)
+ASS.Position = UDim2.new(0.486293614, 0, 0.562316656, 0)
+ASS.Size = UDim2.new(0, 115, 0, 64)
+ASS.Style = Enum.ButtonStyle.RobloxButtonDefault
+ASS.Font = Enum.Font.SourceSans
+ASS.Text = "ASS"
+ASS.TextColor3 = Color3.fromRGB(254, 0, 0)
+ASS.TextSize = 20.000
+ASS.MouseButton1Down:connect(function()
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴🔴⚫⚫🔴🔴⚫⚫⚫⚫🔴⚫⚫⚫⚫🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴⚫🔴⚫🔴🔴🔴🔴⚫🔴🔴🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴⚫🔴⚫🔴🔴🔴🔴⚫🔴🔴🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫⚫⚫⚫🔴⚫⚫⚫⚫🔴⚫⚫⚫⚫🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴⚫🔴🔴🔴🔴⚫🔴🔴🔴🔴⚫🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴⚫🔴🔴🔴🔴⚫🔴🔴🔴🔴⚫🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴⚫🔴⚫⚫⚫⚫🔴⚫⚫⚫⚫🔴","All")
+end)
+
+Cunt.Name = "Cunt"
+Cunt.Parent = ScrollingFrame
+Cunt.BackgroundColor3 = Color3.fromRGB(254, 0, 0)
+Cunt.BorderColor3 = Color3.fromRGB(254, 0, 0)
+Cunt.Position = UDim2.new(0.486293614, 0, 0.670791209, 0)
+Cunt.Size = UDim2.new(0, 115, 0, 64)
+Cunt.Style = Enum.ButtonStyle.RobloxButtonDefault
+Cunt.Font = Enum.Font.SourceSans
+Cunt.Text = "Cunt"
+Cunt.TextColor3 = Color3.fromRGB(254, 0, 0)
+Cunt.TextSize = 20.000
+Cunt.MouseButton1Down:connect(function()
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫⚫⚫🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴⚫🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴🔴⚫🔴🔴⚫🔴⚫🔴🔴🔴⚫⚫⚫🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴🔴⚫🔴🔴⚫🔴⚫⚫⚫🔴🔴⚫🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫🔴🔴🔴⚫🔴🔴⚫🔴⚫🔴⚫🔴🔴⚫🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🔴⚫⚫⚫🔴⚫⚫⚫⚫🔴⚫🔴⚫🔴🔴⚫🔴🔴","All")
+end)
+
+Bruh.Name = "Bruh"
+Bruh.Parent = ScrollingFrame
+Bruh.BackgroundColor3 = Color3.fromRGB(254, 0, 0)
+Bruh.BorderColor3 = Color3.fromRGB(254, 0, 0)
+Bruh.Position = UDim2.new(0.0211773217, 0, 0.670791209, 0)
+Bruh.Size = UDim2.new(0, 115, 0, 64)
+Bruh.Style = Enum.ButtonStyle.RobloxButtonDefault
+Bruh.Font = Enum.Font.SourceSans
+Bruh.Text = "Bruh"
+Bruh.TextColor3 = Color3.fromRGB(254, 0, 0)
+Bruh.TextSize = 20.000
+Bruh.MouseButton1Down:connect(function()
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("⚫⚫⚫🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("⚫🔴🔴⚫🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴⚫🔴🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("⚫🔴🔴⚫🔴⚫🔴🔴🔴🔴🔴🔴🔴🔴⚫🔴🔴🔴","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("⚫⚫⚫🔴🔴⚫⚫⚫🔴⚫🔴🔴⚫🔴⚫⚫⚫⚫","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("⚫🔴🔴⚫🔴⚫🔴⚫🔴⚫🔴🔴⚫🔴⚫🔴🔴⚫","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("⚫🔴🔴⚫🔴⚫🔴🔴🔴⚫🔴🔴⚫🔴⚫🔴🔴⚫","All")
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("⚫⚫⚫⚫🔴⚫🔴🔴🔴⚫⚫⚫⚫🔴⚫🔴🔴⚫","All")
 end)
 
 TextButton.Parent = Frame
